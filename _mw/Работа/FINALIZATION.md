@@ -1,5 +1,7 @@
 # Development Epoch Result Finalization — Carrier 013
 
+> **Post-finalization locator update.** По отдельной организационной Commission финальные публикационные файлы физически перенесены из `_mw/` в корень репозитория. Аналитическое содержание, semantic identity и closure verdict не изменены.
+
 **Work:** MADARAII-37 — Development Epoch Result Finalization  
 **Commission:** Carrier 013  
 **Accepted knowledge closure:** MADARAII-21 — PASS_WITH_RELIANCE_LIMITATION  
@@ -13,8 +15,8 @@ The following substantive owners remain unchanged from the accepted closure base
 
 - Scientific Knowledge: `../Знание/CURRENT-SCIENTIFIC-KNOWLEDGE.md`;
 - Primary Analytical Result: `../Сведение/PRIMARY-ANALYTICAL-RESULT-DEEP-REOPEN-2026-2К.md`;
-- publication: `../ПРОДУКТ.md`;
-- executive projection: `../ТЕЗИСЫ.md`;
+- publication: `../../ПРОДУКТ.md`;
+- executive projection: `../../ТЕЗИСЫ.md`;
 - current Theme Map: `../Сведение/КАРТА-ТЕМ-DEEP-REOPEN-2026-2К.md`;
 - current interbank owner: `../Сведение/МЕЖБАНКОВСКОЕ-DEEP-REOPEN-2026-2К/RESULT.md`;
 - assimilation registry: `../Знание/РЕЕСТР-АССИМИЛЯЦИИ.md`.
@@ -23,7 +25,7 @@ No substantive Product or Knowledge owner transition is performed by finalizatio
 
 ## 2. Development Report
 
-`../ОТЧЕТ-О-РАЗРАБОТКЕ.md` is sealed for Carrier 013.
+`../../ОТЧЕТ-О-РАЗРАБОТКЕ.md` is sealed for Carrier 013.
 
 It records:
 - reopen reason;
@@ -76,9 +78,9 @@ Historical Carrier 012 Jester/audit files remain history only.
 
 ## 5. Final publication surfaces
 
-- large detailed analytical publication: `../ПРОДУКТ.md`;
-- concise executive projection: `../ТЕЗИСЫ.md`;
-- sealed development history: `../ОТЧЕТ-О-РАЗРАБОТКЕ.md`.
+- large detailed analytical publication: `../../ПРОДУКТ.md`;
+- concise executive projection: `../../ТЕЗИСЫ.md`;
+- sealed development history: `../../ОТЧЕТ-О-РАЗРАБОТКЕ.md`.
 
 No combined duplicate truth owner was created.
 
